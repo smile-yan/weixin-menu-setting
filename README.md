@@ -3,4 +3,6 @@
 使用IDEA编写的，weixin-java-mp的版本号为3.3.0
 推荐使用IDEA直接打开整个项目。
 
-另外如果对按钮有其他需要，请参考weixin-java-mp提供的例子，主要代码见menu-help.java(直接从官网的例子中copy过来的)。
+另外如果对按钮有其他需要，请参考weixin-java-mp提供的例子，WxMenuController.java(直接从官网的例子中copy过来的)。
+
+如果有其他问题，欢迎交流。
